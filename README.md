@@ -7,7 +7,7 @@ Wiring
 ----------
 
 * Pin 3 - LED with resistor
-* pin 11 - PWM signal to Servo
+* Pin 11 - PWM signal to Servo
 * TX - RX of XBee module (putting in a removable jumper allows the Arduino to be easily programmed with the XBee still 'plugged in')
 * TX - TX of XBee module
 * 5V & GND to servo and XBee module
